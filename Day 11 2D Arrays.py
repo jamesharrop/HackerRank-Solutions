@@ -1,3 +1,5 @@
+# TODO: Needs refactoring to address scope of variable arr
+
 def cell(x,y):
     if x<0 or y<0 or x>5 or y>5:
         return None
